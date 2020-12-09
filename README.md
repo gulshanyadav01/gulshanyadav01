@@ -1,6 +1,6 @@
 ### Hi there, this is gulshan yadav 👋
 
-<!--**gulshanyadav01/gulshanyadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gulshanyadav01/gulshanyadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me about.
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: this is gulshan.
+<img src = "https://i.picsum.photos/id/958/200/300.jpg?hmac=oCwv3AFzS5VqZv3nvDJ3H5RzcDH2OiL2g-GGwWL5fsI" alt = "image">
 
