@@ -1,7 +1,7 @@
 ### Hi there, this is gulshan yadav 👋
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on full stack web development.
 - 🌱 I’m currently learning node js 
