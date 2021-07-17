@@ -15,6 +15,7 @@
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
