@@ -24,7 +24,7 @@
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/mongodb-icon-1.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.svg" />
-<img align="left" alt="Postman" width="50px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/post.svg" />
+<img align="left" alt="Postman" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/pos.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
 
