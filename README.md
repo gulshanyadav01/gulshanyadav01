@@ -18,7 +18,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/node.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/nodejs-icon.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c++.png" />
 <img align="left" alt="Postman" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman.png" />
