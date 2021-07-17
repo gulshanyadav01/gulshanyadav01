@@ -58,23 +58,23 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.darshanr.me" target="_blank">
+<!-- <a href="https://www.darshanr.me" target="_blank">
   <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> &nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/gulshany01/" target="_blank">
+  <img align="center" alt="Gulshan Yadav | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gulshanyadav01/" target="_blank">
-  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://twitter.com/gulshany01" target="_blank">
+  <img align="center" alt="Gulshan Yadav R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/darshan_r_27" target="_blank">
-  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+<a href="https://www.instagram.com/gulshany01/" target="_blank">
+  <img align="center" alt="Gulshan Yadav | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+<a href="mailto:gulshany01@gmail.com" target="_blank">
+  <img align="center" alt="Gulshan Yadav | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
-  <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
-    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+<a href="https://drive.google.com/file/d/1c6BS_cJqW9JwrqOfVH-3DgqkzeyZ9NXA/view">
+    <img align="center" alt="Gulshan Yadav | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   
