@@ -16,14 +16,14 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react-2(1).svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react-2.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/redux.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/graphql.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/nodejs-icon.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/mongodb-icon-1.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c++.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.svg" />
 <img align="left" alt="Postman" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
