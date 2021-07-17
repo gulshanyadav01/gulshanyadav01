@@ -15,11 +15,13 @@
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/html.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/node.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/python.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c++.png" />
+<img align="left" alt="Postman" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git.png" />
 
