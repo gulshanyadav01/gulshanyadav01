@@ -58,7 +58,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.leetcode/gulshany01" target="_blank">
+<a href="https://www.leetcode.com/gulshany01" target="_blank">
   <img align="center" alt="Gulshan Yadav | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gulshany01/" target="_blank">
