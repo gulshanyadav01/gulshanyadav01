@@ -1,4 +1,4 @@
-### Hi there, I'm Gulshan Yadav R <img src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Gulshan Yadav <img src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
@@ -58,9 +58,9 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<!-- <a href="https://www.darshanr.me" target="_blank">
-  <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp; -->
+<a href="https://www.leetcode/gulshany01" target="_blank">
+  <img align="center" alt="Gulshan Yadav | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.svg" />
+</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gulshany01/" target="_blank">
   <img align="center" alt="Gulshan Yadav | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
