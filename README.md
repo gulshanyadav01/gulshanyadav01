@@ -28,6 +28,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
 
+<img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman2.png" />
+
 <br />
 <br />
 
@@ -73,7 +75,7 @@
 <a href="https://twitter.com/gulshany01" target="_blank">
   <img align="center" alt="Gulshan Yadav R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/gulshany01/" target="_blank">
+<a href="https://www.instagram.com/gulshany01/" target= "_blank">
   <img align="center" alt="Gulshan Yadav | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:gulshany01@gmail.com" target="_blank">
