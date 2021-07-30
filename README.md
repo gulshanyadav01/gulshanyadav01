@@ -28,7 +28,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
 
-<img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman3.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/postman3.svg" />
 
 <br />
 <br />
