@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="860.000000pt" height="882.000000pt" color : "red" viewBox="0 0 860.000000 882.000000"
+ width="860.000000pt" height="882.000000pt"  style="fill:#060"  viewBox="0 0 860.000000 882.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,882.000000) scale(0.100000,-0.100000)"
@@ -61,3 +61,6 @@ m-3560 -931 c42 -14 107 -45 144 -70 77 -52 151 -130 144 -153 -3 -9 -10 -63
 30 174 30 21 0 4 22 -70 88 l-79 72 -102 -110z"/>
 </g>
 </svg>
+
+
+
