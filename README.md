@@ -24,7 +24,7 @@
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/mongodb-icon-1.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/c.svg" />
-<img align="left" alt="django" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/django.svg" />
+<img align="left" alt="django" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/django-logo.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
